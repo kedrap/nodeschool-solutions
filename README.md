@@ -1,2 +1,5 @@
 # nodeschool-solutions
-Solutions to https://nodeschool.io/
+
+My solutions to https://nodeschool.io/ classes.
+
+Each workshop has its own folder.
