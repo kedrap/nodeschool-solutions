@@ -17,8 +17,6 @@ module.exports = {
             throw new Error('Unrecognized coin ' + coinType);
         }
 
-        console.log(coins, coinType);
-
         return coins[coinType];
     },
 
